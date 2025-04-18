@@ -69,7 +69,8 @@ Category
 
 ![Analysis]()
 
-![Dashboard]()
+![Dashboard](https://github.com/Ola-ykay/Digital-Marketing/blob/main/dashboard-page2.png)
+
 
 
 
