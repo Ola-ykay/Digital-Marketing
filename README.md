@@ -36,12 +36,15 @@ To assess the return on investment and performance efficiency of different marke
 |-----|-------------|
 | ROMI | Return on Marketing Investment = (Revenue - Marketing Spend) / Marketing Spend
 | CTR	| Click-Through Rate = Clicks / Impressions
+| CAC	| Customer Acquisition Cost = Marketing Spend / Orders
 | Conversion Rate 1 |	Visitors to Leads = Leads / Clicks
 | Conversion Rate 2	| Leads to Orders = Orders / Leads
 | AOV	| Average Order Value = Revenue / Orders
-| CPC	| Cost per Click = Marketing Spend / Clicks
 | CPL	| Cost per Lead = Marketing Spend / Leads
-| CAC	| Customer Acquisition Cost = Marketing Spend / Orders
+| CPC	| Cost per Click = Marketing Spend / Clicks
+| Average Weekend Revenue | 
+| Average Weekday Revenue | 
+| Sum of Impressions|
 | Gross Profit | Revenue - Marketing Spend
 
 ## 🔎Insights
@@ -65,9 +68,7 @@ To assess the return on investment and performance efficiency of different marke
 Category
    
 ## Data Visualization
-![Table]()
-
-![Analysis]()
+![Table](https://github.com/Ola-ykay/Digital-Marketing/blob/main/ROMI-table.png)
 
 ![Dashboard-page1](https://github.com/Ola-ykay/Digital-Marketing/blob/main/dashboard-page1.png)
 
